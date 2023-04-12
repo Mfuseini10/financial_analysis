@@ -18,7 +18,7 @@ Using excel pivot tables, my answered the question. Below is the result:
 - Total Unpaid = $ 45222.92
 
 
-Visit [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground?page=2&pageSize=5) for datasets and more information.
 
-You can view the live report in my novyPro portfolio here: [Interactive Report](https://lnkd.in/dShWuWqx)
+
+You can view  my novyPro portfolio here: [Portfolio](https://lnkd.in/dShWuWqx)
 
